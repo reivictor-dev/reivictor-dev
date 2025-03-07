@@ -3,6 +3,11 @@
 # Welcome to my github! Enjoy 😎
 
 Just a fullstack guy that study it with fire in his eyes 🔥
+
+- ⚙️ Backend focus
+- 🖼️ Frontend? see my codes 🤔
+- 💻 API Maker
+
 <div id="badges">
   <a href = "https://www.linkedin.com/in/victor-pinheiro-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,7 +26,7 @@ Just a fullstack guy that study it with fire in his eyes 🔥
 ---
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<div align = "center">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reivictor-dev&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=reivictor-dev&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
