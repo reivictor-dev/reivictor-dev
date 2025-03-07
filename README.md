@@ -5,7 +5,7 @@
 Just a fullstack guy that study it with fire in his eyes 🔥
 
 - ⚙️ Backend focus
-- 🖼️ Frontend? see my codes 🤔
+- 🖼️ Frontend? See my codes 🤔
 - 💻 API Maker
 
 <div id="badges">
